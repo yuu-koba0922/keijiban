@@ -1,0 +1,123 @@
+img {
+  height: 75px;
+}
+
+.header_box {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  padding-left: 30px;
+}
+
+.header_box li {
+  display: inline;
+  padding: 25px;
+  
+}
+
+h1 {
+  margin-top: 0px;
+  border-left: 7px black solid;
+  border-bottom: 5px gray solid;
+  padding-left: 10px;
+  width: 95%;
+
+}
+
+.main {
+  float: left;
+  width: 70%;
+}
+
+form h3 {
+  border-left: 5px red solid;
+  padding-left: 10px;
+  margin-left: 20px;
+  margin-bottom: 15px;
+}
+
+form {
+  background-color: #ebebeb;
+  border: 3px lightgray solid;
+  border-radius: 10px;
+  width: 95%;
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+}
+
+form div {
+  padding: 10px;
+}
+
+form .text, textarea {
+  border-radius: 5px;
+  border: 2px lightgray solid;
+}
+
+form .text {
+  width: 40%;
+}
+
+form textarea {
+  width: 70%;
+}
+
+form .submit {
+  background-color: gray;
+  color: white;
+  padding: 5px 10px;
+  border-bottom: 3px black solid;
+  border-radius: 5px;
+}
+
+.box {
+  background-color: #ebebeb;
+  border: 3px lightgray solid;
+  border-radius: 10px;
+  width: 95%;
+  margin-top: 10px;
+}
+
+.box h3 {
+  border-bottom: 2px lightgray solid;
+  margin: 10px;
+  margin-top: 15px;
+  padding-left: 5px;
+}
+
+.box .contents {
+  margin: 15px;
+}
+
+.box .handlename {
+  margin-top: 5px;
+  font-size: 14px;
+}
+
+.sidebar {
+  float: left;
+  width: 30%;
+  margin-top: 10px;
+}
+
+.sidebar h2 {
+  border-bottom: 2px lightgray solid;
+}
+
+.sidebar ul {
+  list-style: none;
+}
+
+.none {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+footer {
+  padding: 10px;
+  clear: left;
+  background-color: black;
+  color: white;
+  text-align: center;
+  width: 100%;
+}
